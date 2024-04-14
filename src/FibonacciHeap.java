@@ -1,16 +1,6 @@
 import javax.xml.soap.Node;
 import java.util.Arrays;
-/*
-Names:-
-- Ahmad Khalaila
-- Yaseen Hadba
-usernames:-
-- ahmadk1
-- yaseenhadba
-IDs:=
-- 207177197
-- 208219444
- */
+
 /**
  * FibonacciHeap
  *
